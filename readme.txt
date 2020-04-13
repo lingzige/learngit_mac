@@ -4,3 +4,4 @@ git is very good GPL
 git track modify
 git modify again
 git modify creating a new branch on master
+git commit a new modify
